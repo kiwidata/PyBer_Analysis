@@ -5,7 +5,7 @@ The purpose of this analysis is to show a summary of the ride-sharing data by ci
 
 ## Results
 
-The results below provides an overview of the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type between January to May 2019.
+The results below provides an overview of the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type between January to April 2019.
 
 ![First Result ](https://user-images.githubusercontent.com/111706055/203912217-35ec1895-5715-4aea-8e0a-49385f752bd0.png)
 
